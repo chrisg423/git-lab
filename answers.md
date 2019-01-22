@@ -75,13 +75,8 @@ Date:   Tue Jan 22 10:12:28 2019 -0500
 9.) On branch master
 Your branch is up to date with 'origin/master'.
 
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git checkout -- <file>..." to discard changes in working directory)
+nothing to commit, working tree clean
 
-	modified:   answers.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
 
 
 
@@ -94,7 +89,18 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 
 
+12.) Yes, after issuing the git pull command, my changes online were reflected in my local copy.
 
+
+
+
+13.) .  ..  .git  .gitignore  README.md
+
+
+
+
+
+14.)
 
 
 
