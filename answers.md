@@ -52,6 +52,49 @@ Changes to be committed:
 	new file:   answers.md
 
 
-7.)
+7.) On branch master
+nothing to commit, working tree clean
+
+
+
+
+8.) commit 70d083f30512b09c6f5fb7c4f322aa5e4dd456b3 (HEAD -> master)
+Author: Chris Gallagher <cg167017@ohio.edu>
+Date:   Tue Jan 22 10:15:31 2019 -0500
+
+    Initial commit
+
+commit 5911a3cf4ae8e855dd424909adca295edf58af5a
+Author: Chris Gallagher <cg167017@ohio.edu>
+Date:   Tue Jan 22 10:12:28 2019 -0500
+
+    Initial commit
+
+
+
+9.) On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+10.) No, my online changes were not reflected in my local copy.
+
+
+
+
+11.) I recieved an error message, basically saying that I cannot push data and update my online file because the remote contains work that you do not have locally. Basically, it won't let me update the online file that I had already edited online because those online changes were not updated locally.
+
+
+
+
+
 
 
